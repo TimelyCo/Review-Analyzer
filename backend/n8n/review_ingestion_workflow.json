@@ -1,0 +1,109 @@
+{
+  "name": "Review Ingestion Workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 24
+            }
+          ]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Daily Schedule",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "https://serpapi.com/search.json",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            { "name": "engine", "value": "google_maps_reviews" },
+            { "name": "data_id", "value": "={{ $json.data_id }}" },
+            { "name": "api_key", "value": "={{ $env.SERPAPI_KEY }}" }
+          ]
+        },
+        "options": {}
+      },
+      "id": "fetch-reviews",
+      "name": "Fetch Reviews from SerpApi",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [470, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Extract and format reviews from SerpApi response\nconst reviews = $input.first().json.reviews || [];\n\nconst formatted = reviews.map(review => ({\n  business_name: $input.first().json.search_parameters?.data_id || 'Unknown',\n  author: review.user?.name || 'Anonymous',\n  rating: review.rating || 0,\n  date: review.date || 'Unknown',\n  text: review.snippet || review.text || ''\n}));\n\nreturn formatted.map(r => ({ json: r }));"
+      },
+      "id": "transform-reviews",
+      "name": "Transform Reviews",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [690, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://localhost:8501/api/ingest",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            { "name": "reviews", "value": "={{ $json }}" }
+          ]
+        },
+        "options": {}
+      },
+      "id": "store-in-chromadb",
+      "name": "Send to ChromaDB Store",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [910, 300]
+    },
+    {
+      "parameters": {
+        "content": "✅ Review ingestion completed!\n\nProcessed {{ $json.review_count }} new reviews.",
+        "options": {}
+      },
+      "id": "notification",
+      "name": "Log Completion",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [1130, 300]
+    }
+  ],
+  "connections": {
+    "Daily Schedule": {
+      "main": [
+        [{ "node": "Fetch Reviews from SerpApi", "type": "main", "index": 0 }]
+      ]
+    },
+    "Fetch Reviews from SerpApi": {
+      "main": [
+        [{ "node": "Transform Reviews", "type": "main", "index": 0 }]
+      ]
+    },
+    "Transform Reviews": {
+      "main": [
+        [{ "node": "Send to ChromaDB Store", "type": "main", "index": 0 }]
+      ]
+    },
+    "Send to ChromaDB Store": {
+      "main": [
+        [{ "node": "Log Completion", "type": "main", "index": 0 }]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "meta": {
+    "instanceId": "review-analyzer-n8n-workflow"
+  }
+}

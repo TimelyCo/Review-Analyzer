@@ -1,0 +1,648 @@
+{
+  "search_metadata": {
+    "id": "69eb5fe79701217a719d7f2c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7RdX1IlW0We_klBtyVm3MQ/69eb5fe79701217a719d7f2c.json",
+    "created_at": "2026-04-24 12:19:51 UTC",
+    "processed_at": "2026-04-24 12:19:51 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/The+Oberoi+Udaivilas+Udaipur//?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/7RdX1IlW0We_klBtyVm3MQ/69eb5fe79701217a719d7f2c.html",
+    "prettify_html_file": "https://serpapi.com/searches/7RdX1IlW0We_klBtyVm3MQ/69eb5fe79701217a719d7f2c.prettify",
+    "total_time_taken": 1.5
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "The Oberoi Udaivilas Udaipur",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+    "query_displayed": "The Oberoi Udaivilas Udaipur"
+  },
+  "place_results": {
+    "title": "The Oberoi Udaivilas, Udaipur",
+    "place_id": "ChIJ8-KpToDPbDkRmn78-WuA6yE",
+    "data_id": "0x396ccf804ea9e2f3:0x21eb806bf9fc7e9a",
+    "data_cid": "2444188424022556314",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x396ccf804ea9e2f3%3A0x21eb806bf9fc7e9a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x396ccf804ea9e2f3%3A0x21eb806bf9fc7e9a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 24.577382699999998,
+      "longitude": 73.6724412
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8-KpToDPbDkRmn78-WuA6yE",
+    "provider_id": "/g/11cs5rwk93",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFU2zze0HgVZAIj_QSSy2NBdGdMVZJO1xfMzBzYRi25yrGpVJdvFFpKmyC17CCGEHB-4jpNkdCqGlxIx0nXjHF-dLhhIps9Zhmwing0u5cdIlrusl6GCncBDY80w1w4U7782b0J=w128-h86-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/9QiDEHicBcFdToMwAADgE3WUbgxmsgeoUsANncuI8GJii-2gtJWC_NzPQ3gbv-_vVwyDsQ-OI8V2w7Xmsh5t3VOthloNG6o7hxsLqAXWCV_zSxvGN7SuNUx4UYVp83G5XheUR4ywc1FlL-78dV6jtXy7I2_piSky9hPH5rlbsOtjTJ6SCOwak7cMfxM5pzNU700SA3YSIjX2UIluuisOR4-yVPajlXuCFY0eywBO7rS7-X6APmF2nFwUABHsQQuU_gfDw0QG",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 176
+      },
+      {
+        "stars": 2,
+        "amount": 41
+      },
+      {
+        "stars": 3,
+        "amount": 137
+      },
+      {
+        "stars": 4,
+        "amount": 598
+      },
+      {
+        "stars": 5,
+        "amount": 6428
+      }
+    ],
+    "rating": 4.8,
+    "reviews": 7380,
+    "pricing": {
+      "for_date": {
+        "start": "2026-06-25",
+        "end": "2026-06-26"
+      },
+      "all_options": [
+        {
+          "source": "The Oberoi Udaivilas, Udaipur",
+          "price": "$334",
+          "link": "https://linkcenter.derbysoftca.com/dplatform-linkcenter/booking.htm?hotelCode=THN-01F6M1Y7VE8RX964DW867BFRAJ&providerHotelCode=THN-01F6M1Y7VE8RX964DW867BFRAJ&checkInDate=2026-06-25&checkOutDate=2026-06-26&identifier=dh-google&price=37170.00&roomTypeCode=RPK&ratePlanCode=WEB-APR&currency=INR&userCurrency=USD&language=en&userCountry=US&testClick=false&sitetype=mapresults&deviceType=desktop&priceDisplayedTax=60.17&priceDisplayedTotal=394.44&partnerId=derbysoft&campaignid=&userlistid=&ifDefaultDate=default&isPromoted=false&s_is_ad=false&adults=2&children=0&clk_src=&is_ds_account=true",
+          "official_site": true
+        },
+        {
+          "source": "trivago DEALS",
+          "price": "$303",
+          "link": "https://www.trivago.deals/hotels/india_in_udaipur/142982_the-oberoi-udaivilas-udaipur?checkIn=2026-06-25&checkOut=2026-06-26&placeId=H142982&campaignName=TrivagoDeals_Google_US&currencyCode=USD&dealKey=CAIQjQYiDAixoq3PBhD8zoDdASpGDQCAl0MVAICVQzABOHhFAICXQ0oMCKyirc8GEPTolfsCYgpQcmVtaWVyIFR3aAKCAQCNASl8l0OYAQGgAey1q5wBqAHIBjCNBjiG3QhAkfQPSAFSCI-axoN3lT5oWMgG&countryCode=US&languageCode=en&rule=Google_US&site=mapresults&ads=&origin=31&priceDisplayedTotal=303.00&priceDisplayedTax=0.00&device=desktop&adults=2&children=0"
+        },
+        {
+          "source": "Expedia.com",
+          "price": "$335",
+          "link": "https://www.expedia.com/Hotel-Search?selected=809492&startDate=2026-06-25&endDate=2026-06-26&MDPCID=US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&MDPDTL=HTL.809492.20260625.20260626.DDT.62.CID..AUDID..RRID.bex_us_desktop&mctc=10&ct=hotel&mpg=USD&mpf=394.93&mpj=60.24&mpr=0.00&mpl=USD&exp_pg=google&langid=en&ad=2&tp=&utm_source=google&utm_medium=cpc&utm_term=809492&utm_content=mapresults&utm_campaign=HotelAds&langid=1033&adults=2&children=&rateplanid=242154919&mpm=24&mpn=213307499&mpo=EC&mpp=1"
+        },
+        {
+          "source": "Agoda",
+          "price": "$334",
+          "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=25&CkInMonth=06&CkInYear=2026&CkOutDay=26&campaignid=&CkOutMonth=06&CkOutYear=2026&SearchDateType=default&NumberOfAdults=2&LT=62&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=mapresults&los=1&PartnerCurrency=INR&hid=111166&RoomID=1359229950&masterRoomId=4948338&PriceTax=60.17&PriceTotal=394.44&RatePlan=ea16e8c5-1cfe-f16e-7236-fb424a4b2cd7&UserCountry=US&Currency=USD&UserDevice=desktop&Verif=false&rr=row_desktop&audience_list=&mcid=3038&booking_source=cpc&adType=0&mpt=MWhqQlNzRjBrdWM4bjgwWXpKbmVLNmNWL0JIODRCUGFXZ0QxMVAvT1NPRlJOVVNXdWRwNzExRVd3TENhWm4vVTFybERNNmxzeHFMa2FoMD0&original_rr="
+        },
+        {
+          "source": "Booking.com",
+          "price": "$334",
+          "link": "https://www.booking.com/searchresults.en.html?dest_id=78786&highlighted_hotels=78786&dest_type=hotel&checkin=2026-06-25&checkout=2026-06-26&group_adults=2&req_adults=2&show_room=7878609_88871765_2_1_0&lang=en&selected_currency=USD&exrt=0.01061190&ext_price_total=394.44&ext_price_tax=60.17&xfc=INR&hca=m&group_children=0&req_children=0&&no_rooms=1&ts=1777026415&edgtid=64IJZEosSdym5zUVVtmG3g&efpc=MVALAKNxcLAKEw&utm_source=metagha&utm_medium=mapresults&utm_campaign=US&utm_term=hotel-78786&utm_content=dev-desktop_los-1_bw-62_dow-Thursday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20260625_ppt-&aid=2127489&label=metagha-link-MRUS-hotel-78786_dev-desktop_los-1_bw-62_dow-Thursday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20260625_ppt-"
+        },
+        {
+          "source": "KAYAK.com",
+          "price": "$336",
+          "link": "https://www.kayak.com/semi/ha/hotel_ads/56620/en.html?utm_source=google&utm_medium=cpc&utm_term=56620&adType=0&utm_content=mapresults&utm_campaign=HotelAds&ci=2026-06-25&co=2026-06-26&gs=mapresults&l=1&pc=USD&rid=&pdtax=60.45&pdtotal=396.26&rpid=&uc=US&ucuc=USD&d=desktop&lc=en&v=false&rrid=kayak-us&k_pc=~UFJJQ0VMSU5FQ09SRQ&k_rt=&k_sid=yFCETOP0JD&k_kct=1776930490&k_gct=1777013020&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack="
+        },
+        {
+          "source": "Hotels.com",
+          "price": "$335",
+          "link": "https://www.hotels.com/Hotel-Search?selected=809492&startDate=2026-06-25&endDate=2026-06-26&mdpcid=HCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&MDPDTL=HTL.809492.20260625.20260626.DDT.62.CID..AUDID.&adults=2&children=&mctc=10&mpf=394.93&mpg=USD&mpl=USD&mpj=60.24&mpr=0.00&rffrid=sem.hcom.US.156.024.mapresults.02.desktop-1.kwrd=GGMETA.809492USen-20260625-D-ABW=62-camp=-aud=-N&rateplanid=242154919&mpm=24&mpn=213307499&mpo=EC&mpp=1&locale=en_US&siteid=300000001"
+        },
+        {
+          "source": "Orbitz.com",
+          "price": "$335",
+          "link": "https://www.orbitz.com/Hotel-Search?selected=809492&startDate=2026-06-25&endDate=2026-06-26&adults=2&children=&MDPCID=ORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.809492.20260625.20260626.DDT.62.CID..AUDID..mapresults&mpg=USD&mpf=394.93&mpj=60.24&mpr=0.00&mctc=10&rateplanid=242154919&mpm=24&mpn=213307499&mpo=EC&mpp=1"
+        },
+        {
+          "source": "Vio.com",
+          "price": "$376",
+          "link": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FcheckIn%3D2026-06-25%26checkOut%3D2026-06-26%26currency%3DUSD%26forceCurrencyChange%3D1%26lang%3Den%26forceLanguageChange%3D1%26rooms%3D2%3A%26utm_source%3Dgha%26utm_medium%3Dcpc%26hotelId%3D1201823%26userCountry%3DUS%26profile%3Dr2d2m73kn8%26preferredRate%3D375.84%26deviceType%3Ddesktop%26label%3Dsrc%253Dgha%2526cltype%253Dhotel%2526datype%253Ddefault%2526gsite%253Dmapresults%2526vf%253D0%2526ucountry%253DUS%2526udevice%253Ddesktop%2526hotel%253D1201823%2526day%253D25%2526month%253D06%2526year%253D2026%2526los%253D1%2526price%253D375.84%2526currency%253DUSD%2526cid%253D%2526listid%253D%2526rateid%253DZZ_D%2526closerateid%253D%2526promo%253D0%2526isPrivateRate%253D0%2526isAudienceUser%253D0%2526isPaidClick%253D0%2526%26cp%3Deb0utRBEak8CgsyQ3FOWW5NRGpKMBiviq3PBiACOLX_5OULQhMI7o7h54_0rZYfENClAioDVVNE"
+        },
+        {
+          "source": "Luxury Escapes",
+          "price": "$335",
+          "link": "https://luxuryescapes.com/us/metasearch/cfbc2d96-9df8-4cc5-8714-d716e129545c?utm_bp=3&source=metasearch&checkIn=2026-06-25&checkOut=2026-06-26&propertyName=The%20Oberoi%20Udaivilas,%20Udaipur&propertyId=bedbank%3Acfbc2d96-9df8-4cc5-8714-d716e129545c&roomTypeId=d292391e-b7a0-46d2-91b4-39f560cbb955&roomRateId=bf1_dn0_int1_park0_ref0_S1_pkg&adults=2&children=none&utm_source=google&utm_medium=organic&utm_content=gha-lpp&currency=USD&priceTotal=394.93&ruleId=B2C_M11-12&userCountry=US&accountType=scoopon"
+        },
+        {
+          "source": "Travelocity.com",
+          "price": "$335",
+          "link": "https://www.travelocity.com/Hotel-Search?selected=809492&startDate=2026-06-25&endDate=2026-06-26&adults=2&children=&MDPCID=travelocity-US.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.809492.20260625.20260626.DDT.62.CID..AUDID..mapresults&mpg=USD&mpf=394.93&mpj=60.24&mpr=0.00&mctc=10&rateplanid=242154919&mpm=24&mpn=213307499&mpo=EC&mpp=1"
+        },
+        {
+          "source": "Prestigia.com",
+          "price": "$371",
+          "link": "https://www.prestigia.com/en/produit.php?idTarget=311465&arrivee=2026-06-25&depart=2026-06-26&pid=16&a=1000129&guestsParams=W3siYWR1bHRzIjoyLCJjaGlsZHJlbiI6MCwiYWdlcyI6W119XQ==&dev=3&pv=MzcxLjM0fDYwLjUzfDAuMDB8ZmFsc2U=&curr=USD&verif=false&ad_click=false&campaign_id=&src="
+        },
+        {
+          "source": "Billabook.com",
+          "price": "$457",
+          "link": "https://www.billabook.com/hotel/1997813?a=30002&in=2026-06-25&out=2026-06-26&occ=[[30,30]]&user_curr=USD&quote_id=019dbeaa-948c-7841-8c2f-b7b299dfc428&source=free-links&campaign=&user_country=US&query_type=pcn&device=desktop&lang=en&adults=2&children=0&"
+        },
+        {
+          "source": "goseek.com",
+          "price": "$376",
+          "link": "https://deals.goseek.com/?sig=34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931&turl=https%3A%2F%2Fwww.goseek.com%2FHotel%2FSearch%3FcheckIn%3D2026-06-25%26checkOut%3D2026-06-26%26currency%3DUSD%26forceCurrencyChange%3D1%26lang%3Den%26forceLanguageChange%3D1%26rooms%3D2%3A%26utm_source%3Dgha%26utm_medium%3Dcpc%26hotelId%3D1201823%26userCountry%3DUS%26profile%3Dr2d2m73kn8%26preferredRate%3D375.84%26deviceType%3Ddesktop%26label%3Dsrc%253Dgha%2526cltype%253Dhotel%2526datype%253Ddefault%2526gsite%253Dmapresults%2526vf%253D0%2526ucountry%253DUS%2526udevice%253Ddesktop%2526hotel%253D1201823%2526day%253D25%2526month%253D06%2526year%253D2026%2526los%253D1%2526price%253D375.84%2526currency%253DUSD%2526cid%253D%2526listid%253D%2526rateid%253DUS_D%2526closerateid%253D%2526promo%253D0%2526isPrivateRate%253D0%2526isAudienceUser%253D0%2526isPaidClick%253D0%2526%26cp%3D0tgRd7TUBuMCgsyQ3FOWW5NRGpKMBiNjq3PBiACOLX_5OULQhMI7o7h54_0rZYfENClAioDVVNE"
+        },
+        {
+          "source": "Wego",
+          "price": "$375",
+          "link": "https://www.wego.com/hotels-handoff/searches/UDR/2026-06-25/2026-06-26?guests=2&wego_hotel_id=291814&bow_only=true&ts_code=2f2fc&wg_source=meta_distribution&wg_medium=gha&wg_campaign=fbl&wego_currency=USD&ulang=en&wego_price=VVNEOjM3NS4zNDowNmE2NTVkZjk4MGI4OWUzMzFkYTM2MmMwZDkwNGZiY2E1NTBlZWFlMjcxNzdhMDc4YjE3NDJlNDFhYjQzOTAzOmFweWFjd2dwYXdxOjE3NzcwMDY1MTM6RDpVUzphYmQ1YzA2YzRiM2M4ZTZiOjI6MDp0cnVlOmZhbHNlOkI%3D&provider=aG90ZWxzLndlZ28uY29t&no_app_links=true"
+        },
+        {
+          "source": "Hotelscombined.com",
+          "price": "$336",
+          "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/56620/en.html?utm_source=google&utm_medium=cpc&utm_term=56620&adType=0&utm_content=mapresults&utm_campaign=HotelAds&ci=2026-06-25&co=2026-06-26&gs=mapresults&l=1&pc=USD&rid=&pdtax=60.45&pdtotal=396.26&rpid=&uc=US&ucuc=USD&d=desktop&lc=en&v=false&rrid=kayak-us&k_pc=~UFJJQ0VMSU5FQ09SRQ&k_rt=&k_sid=yOCkJwBxAr&k_kct=1776930490&k_gct=1777030193&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack="
+        },
+        {
+          "source": "momondo.com",
+          "price": "$336",
+          "link": "https://www.momondo.com/semi/ha/hotel_ads/56620/en.html?utm_source=google&utm_medium=cpc&utm_term=56620&adType=0&utm_content=mapresults&utm_campaign=HotelAds&ci=2026-06-25&co=2026-06-26&gs=mapresults&l=1&pc=USD&rid=&pdtax=60.45&pdtotal=396.26&rpid=&uc=US&ucuc=USD&d=desktop&lc=en&v=false&rrid=kayak-us&k_pc=~UFJJQ0VMSU5FQ09SRQ&k_rt=&k_sid=yFAESwJKIZ&k_kct=1776930490&k_gct=1777013032&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack="
+        },
+        {
+          "source": "Qantas Hotels",
+          "price": "$395",
+          "link": "https://www.qantas.com/hotels/properties/73744?adults=2&children=0&infants=0&checkIn=2026-06-25&checkOut=2026-06-26&utm_campaign=GoogleHotels&adType=0&utm_medium=organic-search&utm_source=Google-Hotels&utm_term=73744&hotelID=73744&hotel_campaign="
+        },
+        {
+          "source": "CheapTickets.com",
+          "price": "$335",
+          "link": "https://www.cheaptickets.com/Hotel-Search?selected=809492&startDate=2026-06-25&endDate=2026-06-26&MDPCID=CHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL&langid=1033&adults=2&children=&MDPDTL=htl.809492.20260625.20260626.DDT.62.CID..AUDID..mapresults&mpg=USD&mpf=394.93&mpj=60.24&mpr=0.00&mctc=10&rateplanid=242154919&rateplanid=242154919&mpm=24&mpn=213307499&mpo=EC&mpp=1"
+        },
+        {
+          "source": "SKYLARK",
+          "price": "$336",
+          "link": "https://skylark.com/hotels/0061058/2026-06-25/2026-06-26/2/1?utm_source=googlehotelads&utm_medium=cpc&utm_campaign=&rate=B1KAPR&utm_content=0061058_US_desktop_mapresults_1_2026-06-25_default___organic&currency=USD"
+        },
+        {
+          "source": "Bluepillow.com",
+          "price": "$395",
+          "link": "https://www.bluepillow.com/search/594398c47c00cb0e643cdde4?begin=2026-06-25&end=2026-06-26&block_id=-b,f7OttOt79I0K2e8CtiTLCqlxiCMn_TruKYv4g-0d7a1s4RyEQRz0e5hIhZTaJEXz,-bkng-Hotel&adults=2&childs=0&infants=0&childrens=0&country=US&currency=USD&language=en&source=mapresults&utm_campaign=hotel&prid=foreign"
+        },
+        {
+          "source": "Reserving",
+          "price": "$396",
+          "link": "https://h-en.reserving.com/search?i=7103&rf=GOOGLEHOTELS&portal=rsvcom&lang=en&auto=1&tipo=S&id=63914&numero_habs=1&no_adultos_hab1=2&no_ninos_hab1=0&fecha_entrada=25%2F06%2F2026&fecha_salida=26%2F06%2F2026&refp=395.60&campaing-id=&tp=&moneda=USD&device=desktop&pais_dom=US&sg=b=337.89,bhab=2589,big=2026-04-24T07:05:00+02:00,bmid=100,bpd=in,breg=11,bwp=RhlBKM_rvy4,ts=2026-04-24T13:29:52+02:00/B:D307E75B557E756BB950EEA5AA94DB389EA5371D1336738FB6911272&c3=mode=L,dl=3900,d=2,ts_id=30192823329231&r=CAMPAIGN-ID=;TRACKING-PARAM=;CUSTOM1=;PRICE-DISPLAYED-TOTAL=395.60;DEFAULT-DATE=1;CLICK-TYPE=hotel;USER-COUNTRY=US;DEVICE=desktop;SITE=mapresults;USER-LANGUAGE=en;USER-CURRENCY=USD;POS=ALL-ALL-ALL-RSVCOM;AD-CLICK=0;PAYMENT-ID=free;C2=b=337.89,bhab=2589,big=2026-04-24T07:05:00+02:00,bmid=100,bpd=in,breg=11,bwp=RhlBKM_rvy4,ts=2026-04-24T13:29:52+02:00/B:D307E75B557E756BB950EEA5AA94DB389EA5371D1336738FB6911272;C3=mode=L,dl=3900,d=2,ts_id=30192823329231"
+        },
+        {
+          "source": "Etrip.net",
+          "price": "$376",
+          "link": "https://deals.etrip.net/?sig=e9cc68956712e1e5d60f579a67e54afadd83f5d631dc9782cc50d47864de2f2c2d32303330363031313335&turl=https%3A%2F%2Fsearch.etrip.net%2FHotel%2FSearch%3FcheckIn%3D2026-06-25%26checkOut%3D2026-06-26%26currency%3DUSD%26forceCurrencyChange%3D1%26lang%3Den%26forceLanguageChange%3D1%26rooms%3D2%3A%26utm_source%3Dgha%26utm_medium%3Dcpc%26hotelId%3D1201823%26userCountry%3DUS%26profile%3Dr2d2m73kn8%26preferredRate%3D375.84%26label%3Dsrc%253Dgha%2526cltype%253Dhotel%2526datype%253Ddefault%2526gsite%253Dmapresults%2526vf%253D0%2526ucountry%253DUS%2526udevice%253Ddesktop%2526hotel%253D1201823%2526day%253D25%2526month%253D06%2526year%253D2026%2526los%253D1%2526price%253D375.84%2526currency%253DUSD%2526cid%253D%2526listid%253D%2526rateid%253DZZ_D%2526closerateid%253D%2526promo%253D0%2526isPrivateRate%253D0%2526isAudienceUser%253D0%2526isPaidClick%253D0%2526%26cp%3Deb0utRBEak8CgsyQ3FOWW5NRGpKMBiviq3PBiACOLX_5OULQhMI7o7h54_0rZYfENClAioDVVNE"
+        },
+        {
+          "source": "eDreams",
+          "price": "$335",
+          "link": "https://accommodation.edreams.net/Hotel-Search?selected=809492&startDate=2026-06-25&endDate=2026-06-26&adults=2&children=&mpf=394.93&cur=USD&mpj=60.24&wapb3=|c.506950|l.en_US|t.meta|s.ghs&MDPCID=eDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL&mpl=USD&numberOfRooms=1&locale=en_US&rffrid=h4p.hcom.US.ghaodigeo.000.000.kwrd=&pos=EDREAMS_US&rateplanid=242154919&mctc=10&utm_medium=metasearch&utm_campaign=199125&utm_term=hotel&utm_source=FREEBOOKING"
+        },
+        {
+          "source": "Tablet Hotels",
+          "price": "$334",
+          "link": "https://www.tablethotels.com/Rooms?_action_=checkAvailability&https://tablethotels.app.link/p0VnIX5RGLb?%243p=a_google_adwords&%24always_deeplink=false&%24fallback_url={lpurl}&nA=2&hotelId=6589&aD=25&aMY=06-2026&dD=26&dMY=06-2026&user_language=en&currency=USD&google_ads=1&utm_medium=referral&utm_campaign=hotelads&utm_source=google&utm_content=koddi_HPA_25-06-2026_26-06-2026_6589_mapresults_1_desktop_US_default___organic"
+        },
+        {
+          "source": "HomeToGo",
+          "price": "$395",
+          "link": "https://www.hometogo.com/search/5c18ce4b6b134?arrival=2026-06-25&duration=1&id=zf1062860c4f66036%40f%40s&adults=2&tpp=xgsgbhfq.69ea7d75&adword=ghf/us/zf1062860c4f66036/ct=hs/n-a/n-a/5c18ce4b6b134&utm_source=ghf&hl=en_US&ghf_acc=htg_ghf&c=USD&type[]=hotel&gValidation=false&gSite=mapresults"
+        }
+      ]
+    },
+    "type": [
+      "Resort hotel",
+      "Bar",
+      "Massage spa",
+      "Restaurant",
+      "Spa"
+    ],
+    "type_ids": [
+      "resort_hotel",
+      "bar",
+      "massage_spa",
+      "restaurant",
+      "spa"
+    ],
+    "description": "Regal hotel offering lake views, 2 upscale restaurants & a bar, plus a spa & an outdoor pool. Set amid gardens and overlooking Lake Pichola, this luxury hotel is 2 km from both Jagdish Temple and the City Palace Museum. Bright, elegant rooms and suites feature flat-screen TVs, free Wi-Fi, DVD players and sitting areas, plus minibars and iPod docks. Suites add dining rooms, living rooms and coffeemakers, as well as private pools and furnished courtyards with lake views. A 24-hour butler service is available. Amenities include 2 upscale restaurants and a bar with lake views; private outdoor lakeside dining is available. There's also a gym, a spa and an outdoor pool, plus a business centre, meeting rooms and event space.",
+    "amenities": [
+      "Wi-Fi",
+      "Free breakfast",
+      "Free parking",
+      "Accessible",
+      "Outdoor pool",
+      "Air-conditioned",
+      "Laundry service",
+      "Business center",
+      "Room service",
+      "Kid-friendly",
+      "Restaurant",
+      "Kitchens in some rooms",
+      "Airport shuttle",
+      "Spa",
+      "Fitness center",
+      "Bar"
+    ],
+    "address": "HMGC+VVV, Badi-Gorela-Mulla Talai Rd, Haridas Ji Ki Magri, Pichola, Udaipur, Rajasthan 313004, India",
+    "website": "https://www.oberoihotels.com/hotels-in-udaipur-udaivilas-resort/?utm_source=GMBlisting&utm_medium=organic",
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "phone": "+91 294 243 3300",
+    "location_summary": {
+      "neighborhood": {
+        "title": "Pichola",
+        "data_id": "0x3967e55fc140a395:0xc2a4c382ae1ce430",
+        "data_cid": "14025550105572860976",
+        "place_id": "ChIJlaNAwV_lZzkRMOQcroLDpMI"
+      },
+      "description": "Historic area with boat rides on peaceful Lake Pichola, surrounded by City Palace & lakeside ghats.",
+      "ratings": {
+        "total": {
+          "value": 3.8512717828626464,
+          "verdict": "Great for visitors"
+        },
+        "proximity_to_things_to_do": {
+          "value": 4.820881153425215,
+          "verdict": "Excellent"
+        },
+        "proximity_to_transit": {
+          "value": 0.0,
+          "verdict": "Not great"
+        },
+        "airport_access": {
+          "value": 3.0582139391889203,
+          "verdict": "Good"
+        }
+      },
+      "things_to_do": [
+        {
+          "title": "City Palace",
+          "data_id": "0x3967e5640659a7d5:0x9257af76faeaab0e",
+          "data_cid": "10545089978061990670",
+          "place_id": "ChIJ1adZBmTlZzkRDqvq-navV5I",
+          "description": "The palaces of 11 separate rulers sit together in this sprawling complex that was started in 1559.",
+          "rating": 4.5,
+          "reviews": 104098,
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoCXUmpdemW6XCrdUEx7IzxFOGxK4zH0c6utoEujEsH9WDoZjaiN3AakhZ1EA-b_PwmGL8G1MJ515viQkPPFsdGfd1tzEEiE5EWylvYiupsPnXmNWOCO5QOo3qNL1_RBKbhV3v_=w160-h120-k-no",
+          "gps_coordinates": {
+            "latitude": 24.576442099999998,
+            "longitude": 73.6835109
+          }
+        },
+        {
+          "title": "Lake Pichola",
+          "data_id": "0x3967e56041553fe7:0xdfef96846886cdd0",
+          "data_cid": "16136281485325290960",
+          "place_id": "ChIJ5z9VQWDlZzkR0M2GaISW798",
+          "description": "Boat rides are offered on this artificial freshwater lake featuring islands with palaces.",
+          "rating": 4.6,
+          "reviews": 5623,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPxfqudKtrHYBN18PBt7Uj02XMtIQEj2Sf7PdQDNuwv-ugRTKI",
+          "gps_coordinates": {
+            "latitude": 24.572,
+            "longitude": 73.679
+          }
+        },
+        {
+          "title": "Jagmandir Island Palace",
+          "data_id": "0x3967ef8ad9890ab9:0x52969c88012ca666",
+          "data_cid": "5951116065565877862",
+          "place_id": "ChIJuQqJ2YrvZzkRZqYsAYicllI",
+          "description": "Upscale hotel in a 17th century island palace with stylish dining, lake views, a spa & a museum.",
+          "rating": 4.4,
+          "reviews": 10237,
+          "thumbnail": "//lh6.googleusercontent.com/proxy/b2VhGkFGem7htaA0bi3gGkEElq2dPDE9Ru3UbJ_GNq6AwMlZdj14kYmNnEN7mH7dgpV_9SZKZW4OFmhksHqV5xDkW-buCIWm6HfcqD2L97DB6u8jXMEWmoG_-nR-NXRN89Gti6Y9r2Zeow7M3QZa_XdwtdYjNEM=w162-h120-k-no",
+          "gps_coordinates": {
+            "latitude": 24.567594399999997,
+            "longitude": 73.6777615
+          }
+        }
+      ],
+      "airports": [
+        {
+          "title": "Maharana Pratap Airport Udaipur",
+          "data_id": "0x3967dce72c3bc507:0x1f9ed3f75e34d2b2",
+          "data_cid": "2278491520886952626",
+          "place_id": "ChIJB8U7LOfcZzkRstI0XvfTnh8",
+          "gps_coordinates": {
+            "latitude": 24.6175,
+            "longitude": 73.8944444
+          },
+          "travel_options": [
+            {
+              "mode": "Driving",
+              "time": "47 min"
+            }
+          ]
+        }
+      ]
+    },
+    "serpapi_posts_link": "https://serpapi.com/search.json?data_id=0x396ccf804ea9e2f3%3A0x21eb806bf9fc7e9a&engine=google_maps_posts",
+    "posts": [
+      {
+        "title": "Enjoy 15% savings and INR 5,000 hotel credit",
+        "cta": "Book",
+        "link": "https://www.oberoihotels.com/special-offers/exclusive-members-offer/",
+        "post_link": "https://search.google.com/local/posts?q=The+Oberoi+Udaivilas,+Udaipur&ludocid=2444188424022556314&lpsid=CIHM0ogKEIHd0N2arKLXOg&source=sh/x/loc/post&lsig=AB86z5UKgd9TwfaHeECf9YHf6fFS",
+        "description": "Exclusive offer for Oberoi One members. Enjoy 15% savings on stays for bookings made between 16th and 27th April, 2026 for stays until 30th September, 2026.   Additionally, get INR 5,000 hotel credit per stay for bookings made between 15th April and 31st July, for stays until 31st July, 2026.",
+        "duration": "Apr 16 - Apr 27",
+        "date": "4 days ago"
+      },
+      {
+        "title": "A Night With Our Compliments",
+        "cta": "Book",
+        "link": "https://www.oberoihotels.com/special-offers/extended-stay-offer/",
+        "post_link": "https://search.google.com/local/posts?q=The+Oberoi+Udaivilas,+Udaipur&ludocid=2444188424022556314&lpsid=CIHM0ogKELC19PuQgIPDYw&source=sh/x/loc/post&lsig=AB86z5UKgd9TwfaHeECf9YHf6fFS",
+        "description": "Book a stay for three nights and enjoy a complimentary third night\u2019s stay.  Take the time to truly unwind, explore your destination, and experience signature Oberoi hospitality with unmatched comfort and elegance. Offer valid for bookings made before 30th April, 2026 for stays from until 31st July, 2026.",
+        "duration": "Apr 6 - Apr 30",
+        "date": "Apr 13, 2026"
+      }
+    ],
+    "images": [
+      {
+        "title": "All",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFU2zze0HgVZAIj_QSSy2NBdGdMVZJO1xfMzBzYRi25yrGpVJdvFFpKmyC17CCGEHB-4jpNkdCqGlxIx0nXjHF-dLhhIps9Zhmwing0u5cdIlrusl6GCncBDY80w1w4U7782b0J=w446-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/jzaBCnicBcFdboIwAADgE1VKh4JL9gCdFFDZnJFMXpasxVYobUdh_Bxwd_A2-77Hn-h7Y58dR4qnFdeay2qwVUe16ivVr6huHW4soBZYJ3zPT00YX9CyVDDhRRmm9dfpfJ5RHjHCjkWZvbnT7bhEy_XjjtZzR0yRsd84Nvt2xq6PMdklEfBqkzcM_xA5pRNUn3USA3YQIjV2W4p2vCsOhzVlqewGKzcEKxq9XgM4uqN38f0AfcPsZfS8DRBoG4AGKP0PCFtEPw"
+      },
+      {
+        "title": "Latest",
+        "last_updated": "9 days ago",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKRpw0I1U5yVHhXEuShCCzZTXPmGdUB7-TO-q1i0j63mPmOLGiqd9av5Q81maequaU3jlk7HimVn346Z-CDmH6WJj4aIVM54txA09BfprvDyrU8LXHDRmG_nCtnrLUGyXk4mh3criDhDs=w529-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/guqYtHicBcFbcoIwFADQFUXAAIIz_UDigC0qWkMZfzoMUsLjJpAELe7RBXQ3PefvxbQe1NoweoYXtRB1X02qkqXguuJ6UQow6kGhUiFlBOnh1AXbj_PwMHcWdeYsZvl2-mRh-Lxe8hSiG92s0OWIRqsxWxdDCsckasabX9ydk2dBUY1TQXHbd6u4gYxj272ikEDsfr23drHL9o6tfwPT3_wM8k5mSb0kj8kZom8eai4TGs15ZwPDpWwII-rt4Sx9xJa-hzrExT-NJkZN"
+      },
+      {
+        "title": "Videos",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFoMaUHE602AFnKlz4a2qxOlITzyMYjTvnxzUoNyB3S16m8oz4EKJ1zJvwYgPedlFKUcLpNzOq9OYdDueH5ajjyO1fvWTnps6yVSvaancVmu6m1awgBqEJ_ewFBa3wqLM5YpLA=w530-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/XE4jF3icBcFtDoIgAADQE6Gp6aqtH7p05mctrfmrMSKcIWCoJPfrEN2m937fdhyF3JkmbR2DcE4oniR-I85GzEYD8d4kQgIkgTT9U3F--RHPYR2H3sr2I5ZSvYb28CnpsdJL3nTVzD665sUSOBfL6zdcr8M0sXQyq4ac8INGaY0yUehy2JbN4zDh2IVdt5TWc75VTEhvuV5mCBm69pPXW1CRYAiTO1ZRAB01ZLnbiMzfK9dZgdbebsALMP4HOIxGCQ"
+      },
+      {
+        "title": "Rooms",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUH6L-rHMt_lwkV-qXvTXlfd54AVCmGFSfij2F4Mg6IqZP_Q1RSnKAQNP-TOIBmm31LqnVJhX-7h-XZ7kFJ7T7c3wAmlcW1kJuHOYRFY5u-_GJ_Avij1TopntI8Hfw9XmBbuQZ=w447-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/uMFTfXicBcFbjoIwFADQFV0JglZN_CiT8BofoIiVH5LpANW-wBbZoXtwN57zeTNre7NxHMG8Wad1J5rRNE-qlW2UnVEtna43QA0YB2eHnOPoEi938Iz3thYTL2Egr4KI9n_h4_JHRuG5vT_mob_vlslQZXXuns7qF-eHDIpjEkjpubtBlSkjgBiQCvEwRQWi3oSloFeXp2N8vJ3C22KEOkpr_Lo_3EL3yiaruJ3WRAZ_Y15tJ99HwObrFXBQ-guJ90Nn"
+      },
+      {
+        "title": "Exterior",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPzch5bDQXN4hHm5NBSgUsDsEt1IaTDOINXKfI0q43jsl8Txjo7V53fBTChS5TRoxrtNmJ2WaDeuKbPQmKZIZUc3Yn0noYAM78g7ENOvnfqWLQ1Cegf_6AXxFPR-tvp6z0Or1kFA=w534-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/dmG7OXicBcHhEoEwAADgJ5rKmuLOjxEnsYoQfxy7tZ1qSxu6ntAreBvf9_sKYxo9saxKwAFXilfspVlLlTRMmgFVtcUbDagG2sIJSUu8Snoq0D1Ic-KKVY3IbM8POtAL44S3LIhDkkdFaD9d-NCVn3UP5R0RLGbZXOxRtlNda0i9Hp5uAXtF9ySto0t4OVB4lrZUZ7z1fO4tSPyWxfO0SZ0548V1hPNumeyAeTej3o5bp1zi6QdBF4jh2AclkOoPVfJEkQ"
+      },
+      {
+        "title": "Amenities",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFs94WSbp7NDLR39hE7bQeI6-p3D6XFrmKHClnzkwYbkFJX7Wqm6mbI42gJw7FJS6XVLNZRnRwoGdO6DuSeEo6Z3YdjfzlyRKewfDUUrK2WP8g1MMR8A8VHPrXovi7ixbh_VDQypg=w446-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/qHetDnicBcFRboIwAADQE1UikBZM9kGsqKAMSgT0Z0mxtgq0HcVVPaFX8DZ77_MW06TNwnF64c24Urxnd8PGVsmJyWnWqsHh2oDWAONEeVZ0UWxCvy6pRhneES8UK0QLtoVAexg28Tikm2UvX5090i5OGlT_DnCgW9_liUVxUsKm2mUnIolV6_M3xPeSrRQ8ecfz7fLqnyRl9oIPhzF16zzg8_2eBFFQbfKxUX9XdH1Q8VPh4qn5l_V9CIQbBqADUv0DLXtE8g"
+      },
+      {
+        "title": "Food & drink",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhTU8sipECynV4vWZHcPJAtoy5s-81mbMVxKi6CFH7HYLV5X9w36iSMsTRA-gCpFVYMtdOV3nB5jugkWwCadMf4X04d3C4MoIifQmxaOk_IwiK0MVCYv6l3_qUGEXYmbA3e8Q=w397-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/A0nzb3icBcHtFoEwAADQJ5pilXKOH7NT8jHkY8qfDpU11RYb8YAewtu49_cttW7VyDDqEvaYlKwunqp4ZFLoQuheJhuDtQpkCigDbVZRhfxyf3AVb338EdR6HU9htpkjLT-2Am6_uRD6XnAHB-EwTJbUjr0OOnxH1H6LAMNtQBOi8zWFYmLfnqw6dvick6sVm1YOsUXkjF-j5n1eV-ms4wuTUJy8nBqm98PUj5PmgmDhRuMOekNQDjwXVEDIP4m4Q3g"
+      },
+      {
+        "title": "From visitors",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7-H3xZJgB2VKiz6zLSx0hkxKnRdPxbaUipUZC5OhOladhVvIahPcTqMj6mpCl2gNCuNEewTcRjbqqL0M4k7l7pN6mrUWg-l6vMk04lsQjyglzUPT804pQdERudXsRzlo6mIlija2sgktp=w555-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/X0u0unicBcFLDoIwFADAE1UIQlETF0hM_IGAoMYdFtJCH7TYIsgh3XsbZ35fprVUK8MANp9RISiUvSpfRLS6bPWMiMagUiGikDK8KIy5t3PRbj4-DnRjXY_VhKfTZTQZH49tUkTjM88qmT1858zOkBfs-t7nLCJpF9S4kT5YNPT7cFsOKUnqZ9edzMDmLrgyxM0ru1EE-B1w0wYV1x8KUxalC9OWcbFN-uKukgkEbvZQ1bmlKNdyPTiOg5i1XCCOWvEHww9Jcg"
+      },
+      {
+        "title": "By owner",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjxC6QKy4NOL3smpBP7O6njYvykXSKzMp97D8fg1c7z5W4pqSlwSBww7mMxpSyoAAFzn6_I17OsFohZYir61jyaiUKw0rtuPG--O2ialigkaKB87UWLY6WT98H2f2Q2ciZsk4=w447-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/QfX1nnicBcFRboIwAADQE1Wk1haW-AEzugUVCBqGP4Y0WEqh7Whdhft5iN3G9_5frbXafHhe364WTCnWNw_TjFRJ20i7oGrwmDaAGmC8KDvlItp3z0-cJxM6pYeVGXSckRTLrvqbxE-RzEcdkm1wZz4l87pE-rfoXRE7R4bjUxeTiqLdLPHt2yep2an2WvER-91U80vilqN9ZHsAUsjrnjNRJ3FALuWhwuU5DL7gHeaQ8qsRaOMQIqCFYQAEkOoN39JEKQ"
+      },
+      {
+        "title": "Street View & 360\u00b0",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sr7mOj-vLU8AAAQIt4SW2Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=180&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/w_C-nnicHc3RCsIgFADQv_Ft6mTQCiT2GAQxInoczmwaOi-7N1f_0o_1N0HnB87344kAd0IgLc5RCW6F8HIRKzB8ynmKzkBAbnMSpRbkn2mcTYh7MHMON43LJp0eVTle2q7r-gM156vqmR0HG4ObSScDOGDhZCyF6PgEyFatVMO8VtuWvc2q61YyCGS9luw_3HPRtZQ_fOM4XQ"
+      }
+    ],
+    "at_this_place": {
+      "type": [
+        {
+          "title": "Food & Drink",
+          "places": 1
+        },
+        {
+          "title": "Health & Beauty",
+          "places": 1
+        }
+      ],
+      "places": [
+        {
+          "position": 1,
+          "title": "Oberoi Spa",
+          "data_id": "0x3967e51717f61057:0xa751f07f3168f559",
+          "data_cid": "12056682106528003417",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3967e51717f61057%3A0xa751f07f3168f559&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3967e51717f61057%3A0xa751f07f3168f559&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 24.575920099999998,
+            "longitude": 73.6725381
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x3967e51717f61057%3A0xa751f07f3168f559%218m2%213d24.575920099999998%214d73.6725381&engine=google_maps&google_domain=google.com&hl=en&type=place",
+          "rating": 4.9,
+          "reviews": 72,
+          "type": "Spa",
+          "type_id": "spa",
+          "address": "HMGF+927, Badi-Gorela-Mulla Talai Rd, Haridas Ji Ki Magri, Pichola, Udaipur, Rajasthan 313004, India",
+          "open_state": "Open \u00b7 Closes 7\u202fPM",
+          "hours": [
+            {
+              "friday": "7\u202fAM\u20137\u202fPM"
+            },
+            {
+              "saturday": "7\u202fAM\u20137\u202fPM"
+            },
+            {
+              "sunday": "7\u202fAM\u20137\u202fPM"
+            },
+            {
+              "monday": "7\u202fAM\u20137\u202fPM"
+            },
+            {
+              "tuesday": "7\u202fAM\u20137\u202fPM"
+            },
+            {
+              "wednesday": "7\u202fAM\u20137\u202fPM"
+            },
+            {
+              "thursday": "7\u202fAM\u20137\u202fPM"
+            }
+          ],
+          "thumbanil": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHaXYL-1KOBKNjVCyeH9pbGSB0YkQdzPtR2T46-m7VE0h9lTKbEhaJWW6QZxmYxuhqTV1JG8pr8YdoyeUfT8CtGDMuHcpoP5VfmAlIvDy5AInvLTD40mY9CBohLlMX1uQgesx_Y=w86-h86-n-k-no",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHaXYL-1KOBKNjVCyeH9pbGSB0YkQdzPtR2T46-m7VE0h9lTKbEhaJWW6QZxmYxuhqTV1JG8pr8YdoyeUfT8CtGDMuHcpoP5VfmAlIvDy5AInvLTD40mY9CBohLlMX1uQgesx_Y=w86-h86-n-k-no"
+        },
+        {
+          "position": 2,
+          "title": "Chandni Oberoi",
+          "data_id": "0x3967e5006fb4a973:0x8216926560b23732",
+          "data_cid": "9373840638529910578",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3967e5006fb4a973%3A0x8216926560b23732&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3967e5006fb4a973%3A0x8216926560b23732&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 24.577057699999997,
+            "longitude": 73.67264039999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x3967e5006fb4a973%3A0x8216926560b23732%218m2%213d24.577057699999997%214d73.67264039999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+          "rating": 3.9,
+          "reviews": 15,
+          "type": "Restaurant",
+          "type_id": "restaurant",
+          "address": "HMGC+XX4, Pichola, Udaipur, Rajasthan 313004, India",
+          "thumbanil": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF67WHjVefEXwc1TB8_h0mOgZMF5z23hRUWbcEszatSO4jBJFX2oWAx8rQM2Ad9XcmkTKVGX7cE0j2zwhjHoW5GR-FnvgD9kdX6RyPB2cAhdr5B2dgGkGsIRjUH8YED21ZlY9cKZca48tx7=w86-h86-n-k-no",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF67WHjVefEXwc1TB8_h0mOgZMF5z23hRUWbcEszatSO4jBJFX2oWAx8rQM2Ad9XcmkTKVGX7cE0j2zwhjHoW5GR-FnvgD9kdX6RyPB2cAhdr5B2dgGkGsIRjUH8YED21ZlY9cKZca48tx7=w86-h86-n-k-no"
+        }
+      ]
+    },
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"\"Good staff, best service, very clean rooms, Yummy food.\"\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW6-jhnkgdMT6bum-y-zbAOGxNXsdeBrXqUA8kkyxs15KY7mZHTvA=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Location is very good for stay and walk, room quality very good and best staff\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWgHGerhoZivZlZXa9yExquTD7kBH5MwsEO8svn_yZ28_icRP9Z=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Good hotel service and food taste garnishing special conti food\ud83c\udf55\ud83c\udf54...\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLA7q9wKzlsrcH5BPAHLhbkZmzv6ZkLUkqWrJSxxR71ffd-YA=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Trip.com Member",
+          "rating": 5,
+          "user_thumbnail": "https://lh3.googleusercontent.com/local-reviews/AJMZ0QeCck1CfANpZm9bBk3PHtP97Kh9k25HZfvq9yAWlN3BaIyjSHUPEfWkhAJmuYiJsH-_6g=s120-c-br100",
+          "description": "World class service, more than that very personalizedIn fact, we had some sickness in the family and the hotel was very \"homely\", took care of the kids like their ownFacilities were really goodFood was wholesome, when we ordered a dish, several snacks, salad etc were offered in addition to the entreeI would recommend this \"palace\" to anyone wanting to have an experience of feeling like royalty or family",
+          "link": "https://www.trip.com/hotels/detail?hotelid=777034&Allianceid=810504&Sid=1394411&utm_medium=cpc&utm_campaign=HPA&utm_source=google#review",
+          "date": "a year ago",
+          "date_iso8601": "2024-08-10T23:59:59+00:00"
+        },
+        {
+          "username": "\u05de\u05d9\u05db\u05dc \u05e7\u05e4\u05d8\u05d4",
+          "rating": 5,
+          "contributor_id": "105002391367003750821",
+          "user_review_count": 17,
+          "user_photo_count": 9,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUYMGFx5Iyp4MqOC8MABXQvn5cPyR2WpQ1YrCTsIT8XPPWRpgM=s120-c-rp-mo-ba3-br100",
+          "description": "As a hotel owner from Costa Rica, I do not write reviews lightly. My own properties are rated high for location and service, so my standards are sharp. This stay reset them completely. This place is not only a hotel. It is a masterclass. A real school for what top level hospitality looks like when every detail is intentional. The location is unreal. You wake up already impressed. You walk outside and feel chosen by the universe. The team is next level. Warm, precise, present, human. You feel seen, not managed. Service without ego. Excellence without effort. Breakfast deserves its own paragraph. Not food. An experience. Balanced, generous, beautiful, grounded. You start the day feeling nourished, not rushed. I moved through this stay feeling like the queen of the world. Not because of luxury alone, but because of how deeply cared for I felt. If you own a hotel, come here to learn. If you love hotels, come here to feel. This place raises the bar for all of us.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s4d1QzTlFUMFZEUmpjdFFrSkNkRGg0WTNKWExXYxAB!2m1!1s0x0:0x21eb806bf9fc7e9a!3m1!1s2@1:CAIQACodChtycF9oOk8wT3NQT0VDRjctQkJCdDh4Y3JXLWc%7C%7C?hl=en-US",
+          "date": "2 months ago",
+          "date_iso8601": "2026-02-14T06:54:44+00:00"
+        },
+        {
+          "username": "Puja Mayani Chokshi",
+          "rating": 5,
+          "contributor_id": "100617934607328062384",
+          "user_review_count": 21,
+          "user_photo_count": 9,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWNzCcTJUDYd3W-9xwemnD0tx_c6nvDUeoVzrO1RKJQusD9HH6f=s120-c-rp-mo-ba3-br100",
+          "description": "We had an exceptional stay. The service was amazing. Some of the kindest people who helped us were Ibrahim, Krithika, Suraj, and Rimjhim. Chef Ayush and one other were really helpful and made our food despite our many requests. Thank you to them and many others for making our stay so nice. The property is beautiful, and you will occasionally see peacocks roaming so keep your eyes open. The many fountains and still water effect was very beautiful and eye opening. The staff all across the hotel added welcoming touches to make the stay special. While we didn\u2019t visit all the restaurants, the food was amazing and they were extremely accommodating of our allergies, making dishes specially that we could all eat. The property has gardens, pools, a play area for kids, activities such as pottery, a gym, a spa, and so much more. Our family is very into workouts so we were a little disappointed by the size of the gym but it was okay. We had to switch flights last minute and everybody helped us pack up and leave super quickly. The rooms were wonderful and the hotel has so many cool things like a candle room which is lit with 22 candles at night. Overall, the stay was wonderful.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pjNFFuTkdVMlJVT1VsS1oxUnVTREIwZWxWVmIwRRAB!2m1!1s0x0:0x21eb806bf9fc7e9a!3m1!1s2@1:CAIQACodChtycF9oOjc4QnNGU2RUOUlKZ1RuSDB0elVVb0E%7C%7C?hl=en-US",
+          "date": "3 months ago",
+          "date_iso8601": "2026-01-05T14:08:31+00:00"
+        },
+        {
+          "username": "vishal ahuja",
+          "rating": 1,
+          "contributor_id": "105349739676947219298",
+          "user_review_count": 28,
+          "user_photo_count": 11,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWiKaGROrGoiw22F8nJsgtqDTAs_AK70iREKNfVF68QF0PiYFwGZw=s120-c-rp-mo-ba3-br100",
+          "description": "I am writing to formally bring to your attention an unsatisfactory experience I recently had while attempting to make a reservation at The Oberoi Udaivilas, Udaipur.\n\nI contacted the hotel via telephone, and while my call was answered, the reservation was not processed. I was informed by the representative that I would receive a callback to proceed further. Unfortunately, despite this assurance, no callback was ever received.\n\nAs a guest, I hold the Oberoi brand in very high regard and associate it with exceptional service and professionalism. However, this lack of follow-up and communication was disappointing and not in line with the standards expected from a luxury hospitality brand of your reputation.\n\nI kindly request that this matter be reviewed and appropriate steps be taken to ensure better responsiveness and customer handling in the future. I would also appreciate a response from your team regarding this concern.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wSVJWUmpRWGh2WjJKa2RHMHlWR2xPY1hKNE5HYxAB!2m1!1s0x0:0x21eb806bf9fc7e9a!3m1!1s2@1:CAIQACodChtycF9oOmpIRVRjQXhvZ2JkdG0yVGlOcXJ4NGc%7C%7C?hl=en-US",
+          "date": "3 months ago",
+          "date_iso8601": "2026-01-16T18:40:43+00:00"
+        },
+        {
+          "username": "paras babbar",
+          "rating": 5,
+          "contributor_id": "112357693546748986362",
+          "user_review_count": 34,
+          "user_photo_count": 7,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLfLapPYPe3ZxlkZcjF65SoI6L22vI7Z2rsC5FZ0cbRFU6IgA=s120-c-rp-mo-ba3-br100",
+          "description": "From the moment we arrived, it felt like stepping into a royal era. The property itself is breathtaking \u2014 overlooking Lake Pichola, with intricate architecture, lush courtyards, and calm reflecting pools that make every corner picture-perfect.\n\nWhat truly makes the stay unforgettable is the staff\u2014 every person we interacted with went above and beyond. They anticipate your needs even before you ask. Whether it was the warm welcome, personalized dining setup by the lake, or the smallest thoughtful touches in the room, the attention to detail was unmatched.\n\nThe rooms were spacious, beautifully decorated, and offered stunning views of the lake. The food was exceptional \u2014 a perfect blend of authentic Rajasthani flavors and world cuisine.\n\nIt\u2019s not just a hotel stay; it\u2019s an experience of luxury, peace, and heartfelt hospitality. Oberoi Udaivilas sets a new benchmark for what five-star truly means.\n\nHighly recommended for anyone visiting Udaipur \u2014 worth every moment!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOWVIwODFNM3A2V21KM05FUlFTbFExWlc5QmVVRRAB!2m1!1s0x0:0x21eb806bf9fc7e9a!3m1!1s2@1:CAIQACodChtycF9oOkNYR081M3p6WmJ3NERQSlQ1ZW9BeUE%7C%7C?hl=en-US",
+          "date": "6 months ago",
+          "date_iso8601": "2025-10-19T05:13:50+00:00"
+        },
+        {
+          "username": "Aashini Moddi",
+          "rating": 5,
+          "contributor_id": "113863878925933059205",
+          "user_review_count": 43,
+          "user_photo_count": 29,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV8lxpBpUpujEHAwRYTL4YdYK3ysVIpZbbQ7cSAYe55yvtOwvd6=s120-c-rp-mo-ba3-br100",
+          "description": "One of the best hotels I have stayed at. Truly a 5 star hotel. We went here for our honeymoon. The hotel was great. The staff was very kind and friendly and hospitality was great. The staff went above and beyond to accommodate our requests. They upgraded our room as well to make our stay in the semi-private pool for the entire duration. There was nature all around the property and lovely sounds of cuckoo and peacocks. Anjali was very kind and friendly and everyone else in the staff was very warm as well. They welcomed us very warmly and were very warm and kind for the duration of the stay. Would love to come back again.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pjMWNWazJjemt4VDNSWVQxVjZUWFZ2ZVRaeFRHYxAB!2m1!1s0x0:0x21eb806bf9fc7e9a!3m1!1s2@1:CAIQACodChtycF9oOjc1cVk2czkxT3RYT1V6TXVveTZxTGc%7C%7C?hl=en-US",
+          "date": "2 months ago",
+          "date_iso8601": "2026-02-13T05:21:26+00:00"
+        },
+        {
+          "username": "Ramala Anji Reddy",
+          "rating": 5,
+          "contributor_id": "115971305758220096911",
+          "user_review_count": 2,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKBn04I8tRRT9ApktZB4_CrX8XQQK6ZWtCAcWQlZPE86nlimA=s120-c-rp-mo-br100",
+          "description": "World class hotel in a sublime location\u2026 As expected from Oberoi, all staff members were marvellous, friendly and totally professional at all times. Faultless indeed!\u201d \u2014 from a guest review.\n\n\u201cThe staff went above and beyond, especially the restaurant and breakfast team who made each morning special\u2026 Our room was a dream \u2014 spacious, elegant, and complete with a semi-private pool offering breathtaking lake views.\u201d\n\n\u201cUdaivilas offers an unforgettable experience with superb hospitality and a beautiful lakeside setting.\u201d\n\n\u201cOf all the Oberois, this is the mothership. Epic in scale\u2026 right on the lake and wondrous to behold.\u201d (from a travel-review site)\n\n\u201cSet on 30 acres\u2026 grounds and rooms have a more spacious feel\u2026 On Lake Pichola, \u2026 this is one of India\u2019s most luxurious (and expensive) hotels.\u201d\n\nStunning location by Lake Pichola with lake views.\nLarge, elegant rooms (some with semi-private or private pools).\nHigh level of service \u2014 many guests say staff are very attentive and personalised.\nBeautiful architecture, gardens, grounds \u2014 luxurious \u201cpalace-hotel\u201d feel.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsall6TlhXRnBtZUdwTFZVdGpWVEZzY2tOd1UwRRAB!2m1!1s0x0:0x21eb806bf9fc7e9a!3m1!1s2@1:CAIQACodChtycF9oOlljYzNXWFpmeGpLVUtjVTFsckNwU0E%7C%7C?hl=en-US",
+          "date": "5 months ago",
+          "date_iso8601": "2025-11-05T10:12:56+00:00"
+        },
+        {
+          "username": "Sapanpreet Singh",
+          "rating": 5,
+          "contributor_id": "110646915382460971079",
+          "user_review_count": 5,
+          "user_photo_count": 2,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVKmExvOIbTw3z4EtZ3xoBZJXhurUWuMbYDRzmVYjP5jSbnAu0qdA=s120-c-rp-mo-br100",
+          "description": "We had a truly wonderful stay at Oberoi Udaivilas. The hospitality was outstanding, and every member of the team went above and beyond to make us feel welcome.\n\nA special thanks to Atul, Head of Staff and Services, for leading such an exceptional team. Pradeep at the front desk deserves special mention for his consistent support and guidance, helping us with information about Udaipur and ensuring we enjoyed all the amenities within the property.\n\nA big thank you to Anjali, Twency, and Divya from Housekeeping, who surprised us daily with thoughtful gestures that made our stay even more memorable. At the children\u2019s play area, a young trainee from Jalandhar (I regret forgetting her name) took such wonderful care of our daughter. Every time she went for activities, this trainee ensured she felt comfortable, engaged, and always returned with a big smile \u2014 something we will always cherish.\n\nAnd lastly, a heartfelt thanks to the night guard, who welcomed us each evening with a smile and kindly clicked our pictures at the property entrance. He has a wonderful knack for photography and truly added a personal touch to our stay.\n\nHats off to the many more team members who contributed to making our stay truly marvelous. The warmth, care, and attention to detail reflect the exceptional service Oberoi is renowned for.\n\nWe highly recommend this beautiful property to anyone seeking an unforgettable experience \u2014 and we are already looking forward to returning soon!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKRlNUUTNNR2RQTVV4RlozQTFSVkpOWmsxT05FRRAB!2m1!1s0x0:0x21eb806bf9fc7e9a!3m1!1s2@1:CAIQACodChtycF9oOkJFSTQ3MGdPMUxFZ3A1RVJNZk1ONEE%7C%7C?hl=en-US",
+          "date": "7 months ago",
+          "date_iso8601": "2025-09-23T18:26:55+00:00"
+        }
+      ],
+      "source": [
+        {
+          "name": "Tripadvisor",
+          "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_100532569.png",
+          "source_review_count": 4098,
+          "reviews": [
+            {
+              "rating": 4.9,
+              "rating_scale": 5,
+              "username": "Explore41683656968",
+              "description": "We recently stayed at The Oberoi Udaivilas, Udaipur, and the experience was truly outstanding.||||From the warm welcome to the seamless check-in and thoughtful in-room dining after a long journey, every detail was handled with care. The team consistently demonstrated warmth and attentiveness, making us feel genuinely valued.  The dining experience at Chandni, complemented by live folk music, was equally delightful.||||What truly sets Udaivilas apart is not just the stunning property, but the culture of quiet excellence reflected across the team.||||A stay we will remember fondly.",
+              "date": "3 weeks ago",
+              "date_iso8601": "2026-04-01T18:30:00+00:00"
+            }
+          ]
+        },
+        {
+          "name": "Trip.com",
+          "source_icon": "https://www.gstatic.com/travel-hotels/branding/b8089cb0-34b4-458c-8749-9bc4614baba4.png",
+          "source_review_count": 69,
+          "reviews": [
+            {
+              "rating": 4.8,
+              "rating_scale": 5,
+              "username": "Trip.com Member",
+              "description": "World class service, more than that very personalizedIn fact, we had some sickness in the family and the hotel was very \"homely\", took care of the kids like their ownFacilities were really goodFood was wholesome, when we ordered a dish, several snacks, salad etc were offered in addition to the entreeI would recommend this \"palace\" to anyone wanting to have an experience of feeling like royalty or family",
+              "date": "a year ago",
+              "date_iso8601": "2024-08-09T18:30:00+00:00"
+            }
+          ]
+        }
+      ]
+    },
+    "similar_places_nearby": [
+      {
+        "position": 1,
+        "title": "The Leela Palace Udaipur : Udaipur's Only Modern Palace Hotel By Lake Pichola",
+        "data_id": "0x3967e55d8714f8bd:0xbe01c924b09c89a9",
+        "data_cid": "13691445501602073001",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3967e55d8714f8bd%3A0xbe01c924b09c89a9&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3967e55d8714f8bd%3A0xbe01c924b09c89a9&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 24.579528000000003,
+          "longitude": 73.678792
+        },
+        "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x3967e55d8714f8bd%3A0xbe01c924b09c89a9%218m2%213d24.579528000000003%214d73.678792&engine=google_maps&google_domain=google.com&hl=en&type=place",
+        "rating": 4.7,
+        "reviews": 3340,
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrpIRdAbTIh6bDWeUFOS1y1pTf4sfA_C-BWvyOAyMOEGSk-smBfFG4Id9yqoAeYtLLiGZ1ZOjy69AtOp77wsLcrJMD0cbDg3tHEp0mpEWBuQyjvYD0LcrhFR_KL09rK46PBwH23uaCrpwA=w142-h90-k-no",
+        "description": "Free Wi-Fi",
+        "distance": "0.4 mi away",
+        "price": "$327"
+      }
+    ],
+    "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,Oj0KOyI3VGhlIE9iZXJvaSBVZGFpdmlsYXMsIFVkYWlwdXIgVWRhaXB1ciwgUmFqYXN0aGFuLCBJbmRpYSgC&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COj0KOyI3VGhlIE9iZXJvaSBVZGFpdmlsYXMsIFVkYWlwdXIgVWRhaXB1ciwgUmFqYXN0aGFuLCBJbmRpYSgC&q=local+guide+program"
+  }
+}
