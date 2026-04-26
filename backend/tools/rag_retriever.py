@@ -37,7 +37,7 @@ def retrieve_relevant_reviews(query: str, business_name: str = "", top_k: int = 
     # Format results as a readable context string for the LLM
     formatted_reviews = []
     for i, review in enumerate(results, 1):
-        stars = "⭐" * int(review["rating"])
+        stars = "-" * int(review["rating"])
         formatted_reviews.append(
             f"Review #{i} | Rating: {review['rating']}/5 {stars} | "
             f"Author: {review['author']} | Date: {review['date']}\n"

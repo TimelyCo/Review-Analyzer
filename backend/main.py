@@ -6,7 +6,7 @@ import os
 from agents.orchestrator import analyze_business
 
 app = FastAPI(
-    title="ReviewLens AI API",
+    title="Review-Analyzer",
     description="API for business review analysis using Gemini and RAG",
     version="1.0.0"
 )
